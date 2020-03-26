@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Titan+One&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    cursor: none;
+}
+
+.nazev {
+    text-align: center;
+    margin: 25px auto 25px auto;
+    left: 500px;
+    color: red;
+    font-family: 'Titan One', cursive;
+    font-size: 1.2em;
+}
